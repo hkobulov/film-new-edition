@@ -1,0 +1,22 @@
+{
+  "name": "film",
+  "version": "1.0.0",
+  "description": "New films",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkobulov/film-new-edition.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hkobulov/film-new-edition/issues"
+  },
+  "homepage": "https://github.com/hkobulov/film-new-edition#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.0"
+  }
+}
